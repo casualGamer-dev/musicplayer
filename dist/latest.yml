@@ -1,0 +1,8 @@
+version: 1.0.0
+files:
+  - url: MBT-Setup-1.0.0.exe
+    sha512: rWqv8d6+Rgk/wswSdHTT+RGjpiUe2rjKnlt08pbObxI0cvI/oyglb3YBQCjTLH0Em5RFCRhJIK4nuU4R2fsLsg==
+    size: 38066671
+path: MBT-Setup-1.0.0.exe
+sha512: rWqv8d6+Rgk/wswSdHTT+RGjpiUe2rjKnlt08pbObxI0cvI/oyglb3YBQCjTLH0Em5RFCRhJIK4nuU4R2fsLsg==
+releaseDate: '2021-04-22T08:52:18.572Z'
